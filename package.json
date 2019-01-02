@@ -1,0 +1,25 @@
+{
+  "name": "solaryss",
+  "displayName": "solaryss",
+  "description": "A VScode theme mixture of Solarized Dark and Abyss, plus a little bit tweakng.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harry-public/solaryss.git"
+  },
+  "icon": "images/logo.png",
+  "galleryBanner": {
+    "color": "#fdf6e3"
+  },
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [{
+      "label": "solaryss",
+      "uiTheme": "vs-dark",
+      "path": "./themes/solaryss-color-theme.json"
+    }]
+  }
+}

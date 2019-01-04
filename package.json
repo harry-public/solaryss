@@ -3,6 +3,7 @@
   "displayName": "vadiya-themes",
   "description": "VScode themes, mixture of some other themes, plus a little bit tweaking.",
   "version": "0.0.1",
+  "publisher": "harry-public",
   "repository": {
     "type": "git",
     "url": "https://github.com/harry-public/vadiya-themes.git"

@@ -1,2 +1,2 @@
-# soleryss
-A VScode theme mixture of Solarized Dark and Abyss, plus a little bit tweakng.
+# vadiya-themes
+VScode themes, mixture of some other themes,  plus a little bit tweaking.

@@ -4,7 +4,7 @@
 ----------
 *Set theme*
 ```json
-  "workbench.colorTheme": "soloryss"
+  "workbench.colorTheme": "solaryss"
 
 
 ```

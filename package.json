@@ -1,11 +1,11 @@
 {
-  "name": "solaryss",
-  "displayName": "solaryss",
-  "description": "A VScode theme mixture of Solarized Dark and Abyss, plus a little bit tweakng.",
+  "name": "vadiya-themes",
+  "displayName": "vadiya-themes",
+  "description": "VScode themes, mixture of some other themes, plus a little bit tweaking.",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/harry-public/solaryss.git"
+    "url": "https://github.com/harry-public/vadiya-themes.git"
   },
   "icon": "images/logo.png",
   "galleryBanner": {

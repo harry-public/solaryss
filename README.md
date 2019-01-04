@@ -9,7 +9,7 @@
 
 ```
 *Here are some basic settings that I was using while tweaking this theme*
-```json
+```json5
 {
   "editor.fontSize": 18,
   "editor.tabSize": 2,
@@ -23,7 +23,7 @@
 ```
 *Some settings you may want to tweak*
 
-```json
+```json5
 "workbench.colorCustomizations": {
   "[solaryss]": {
   "editor.background": "#000c18",

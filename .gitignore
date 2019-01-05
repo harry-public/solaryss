@@ -62,3 +62,4 @@ typings/
 vsc-extension-quickstart.md
 .vscode/
 token.json
+*.vsix

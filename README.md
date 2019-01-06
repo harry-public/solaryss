@@ -2,6 +2,10 @@
 **VScode themes, mixture of some other themes, plus a little bit tweaking.**
 
 ----------
+*Screenshot*
+![Screenshot](https://raw.githubusercontent.com/harry-public/vadiya-themes/master/images/vadiya-solaryss.png)
+
+
 *Set theme*
 ```json
   "workbench.colorTheme": "solaryss"
